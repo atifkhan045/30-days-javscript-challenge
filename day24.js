@@ -32,5 +32,5 @@ function matchDigits(str) {
 }
 
 // Example usage
-const inputString2 = "My phone number is 123456 and my zip code is 78910.";
-matchDigits(inputString2); // Output: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "1", "0"]
+const inputStrings2 = "My phone number is 123456 and my zip code is 78910.";
+matchDigits(inputStrings2); // Output: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "1", "0"]
